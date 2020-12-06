@@ -2,9 +2,9 @@
  * @Author: 光城
  * @Date: 2020-11-21 16:22:23
  * @LastEditors: 光城
- * @LastEditTime: 2020-11-21 16:52:17
+ * @LastEditTime: 2020-12-06 11:04:20
  * @Description:
- * @FilePath: /go-talent/code/once/once.go
+ * @FilePath: /go-talent/code/concurrency/once/once.go
  */
 
 package main
